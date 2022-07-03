@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InventryManager.SqlRepostiroy": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
